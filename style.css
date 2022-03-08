@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(to right top, #00ff2c, #99df00, #cbbc00, #e89600, #f46f00, #fb571f, #ff3a33, #ff0045, #ff0068, #eb0096, #b800cb, #1600ff);
+
+}
+
+#button1,#button2{
+    width: 100;
+    height: 50;
+    border: #00000000;
+    border-width: 4;
+    border-radius: 50;
+}
